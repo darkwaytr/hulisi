@@ -1,0 +1,2 @@
+# hulisi
+Ticari Otomasyon 
